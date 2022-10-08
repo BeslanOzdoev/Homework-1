@@ -1,0 +1,15 @@
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\bin\Debug\net6.0\HW1.9.exe
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\bin\Debug\net6.0\HW1.9.deps.json
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\bin\Debug\net6.0\HW1.9.runtimeconfig.json
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\bin\Debug\net6.0\HW1.9.dll
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\bin\Debug\net6.0\HW1.9.pdb
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\obj\Debug\net6.0\HW1.9.csproj.AssemblyReference.cache
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\obj\Debug\net6.0\HW1.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\obj\Debug\net6.0\HW1.9.AssemblyInfoInputs.cache
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\obj\Debug\net6.0\HW1.9.AssemblyInfo.cs
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\obj\Debug\net6.0\HW1.9.csproj.CoreCompileInputs.cache
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\obj\Debug\net6.0\HW1.9.dll
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\obj\Debug\net6.0\refint\HW1.9.dll
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\obj\Debug\net6.0\HW1.9.pdb
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\obj\Debug\net6.0\HW1.9.genruntimeconfig.cache
+C:\Users\biozd\OneDrive\Рабочий стол\C# HW1\HW1.9\obj\Debug\net6.0\ref\HW1.9.dll
